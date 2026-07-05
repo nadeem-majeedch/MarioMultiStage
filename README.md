@@ -1,5 +1,7 @@
 # Mario Game Project
 
+![description](https://github.com/nadeem-majeedch/MarioMultiStage/blob/main/MarioMultiStage.png)
+
 This is a simple Mario-style game implemented in Python using Pygame.
 
 ## Features
